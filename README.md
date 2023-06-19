@@ -25,9 +25,9 @@ WP-Checker is a tool written in Python that allows you to check the admin login 
    cd WP-Checker
   
  4. Run the program
-   ```shell
-   python3 WP-Checker.py
-   ```
+    ```shell
+    python3 WP-Checker.py
+    ```
  ## Extra
  Hope you like this project
    
