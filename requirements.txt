@@ -1,0 +1,5 @@
+colorama
+pybase64
+requests
+pywinauto
+
