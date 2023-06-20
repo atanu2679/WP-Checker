@@ -2,7 +2,7 @@
 
 ![WP-Checker](wp-icon.png)
 
-WP-Checker is a tool written in Python that allows you to check the admin login of WordPress websites and save the results in a file.
+WP-Checker is a tool written in Python that allows you to check the admin login of WordPress websites and save the success results in a file. You need a combo for this and you save the combos into the wp-sites.txt.
 
 ## Features
 
@@ -14,7 +14,7 @@ WP-Checker is a tool written in Python that allows you to check the admin login 
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/WP-Checker.git
+   git clone https://github.com/atanu2679/WP-Checker.git
    
 2. Install the requirements:
    ```shell
